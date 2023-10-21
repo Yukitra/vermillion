@@ -23,7 +23,7 @@ function NavBar(){
     return (
         <Paper  sx={{
           display:'flex',
-          backgroundColor:'#311D3F',
+          backgroundColor:'#000000',
           BackgroundColor:'primary',
           borderRadius:'0px',
           height:'70px',
@@ -48,7 +48,7 @@ function NavBar(){
               margin:'none',
               height:'100%',
               width:'auto',
-              backgroundColor:'#311D3F',
+              backgroundColor:'000000',
               borderRadius:'0px',
               padding:'20px'
             }}>
@@ -56,7 +56,7 @@ function NavBar(){
               variant='h2'
               sx={{
                 fontSize:'24px',
-                color:'white',
+                color:'#950101',
                 fontFamily:'Rajdhani'
               }} > 
                 {item.name}
