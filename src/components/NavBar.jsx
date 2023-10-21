@@ -26,7 +26,8 @@ function NavBar(){
           backgroundColor:'#311D3F',
           BackgroundColor:'primary',
           borderRadius:'0px',
-          height:'70px'
+          height:'70px',
+          margin:'0px'
         }}>
           <Avatar 
           src={require('./r.png')} 
